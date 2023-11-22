@@ -1,0 +1,61 @@
+body {
+  background-color: #1d1c1c;
+
+  color: #001a8b;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+#head {
+  border: 2px solid wheat;
+  text-align: center;
+  margin: 0px auto 90px;
+
+  background-color: rgb(6, 235, 235);
+}
+.align {
+  display: flexbox;
+  margin: 0px 499px;
+  font-size: 20px;
+  padding-right: 6rem;
+}
+div h4 {
+  margin: 50px 6rem 0px;
+  color: green;
+}
+.submit {
+  background-color: #6703fc;
+  color: black;
+  font-size: 40px;
+  border: 1px solid blue;
+  padding: 12px 12px 12px 12px;
+  margin: 12px 12px 12px 12px;
+  /* text-align: right; */
+}
+#s {
+  float: right;
+  background-color: #6703fc;
+  color: black;
+  font-size: 40px;
+  border: 1px solid blue;
+}
+
+th {
+  padding: 10px;
+}
+
+.de {
+  background-color: greenyellow;
+}
+details {
+  background-color: rgb(22, 20, 20);
+  display: inline;
+  border: 2px solid rgb(120, 252, 59);
+  padding: 11px 20px 20px;
+  filter: blur(4px, red);
+  color: cyan;
+}
+summary {
+  border: 2px solid purple;
+  background-color: rgb(235, 218, 218);
+  padding: 11px 70em 20px 20px;
+  color: blue;
+}
